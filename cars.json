@@ -1,0 +1,384 @@
+{
+  "sedans": [
+    {
+      "name": "BMW 3 Series",
+      "description": "BMW 3",
+      "price": 20500,
+      "discount": null,
+      "color": "black",
+      "rating": 2,
+      "image": "https://mobistatic1.focus.bg/mobile/photosorg/967/1/big1/11740240947363967_4B.webp"
+    },
+    {
+      "name": "BMW 2 Series",
+      "description": "BMW 2",
+      "price": 21000,
+      "discount": null,
+      "color": "white",
+      "rating": 3,
+      "image": "https://mobistatic3.focus.bg/mobile/photosorg/953/1/big1/11734707526405953_go.webp"
+    },
+    {
+      "name": "BMW 1 Series",
+      "description": "BMW 1",
+      "price": 21500,
+      "discount": null,
+      "color": "red",
+      "rating": 4,
+      "image": "https://cdn2.focus.bg/mobile/photosorg/582/1/big1/11767890320699582_oe.webp"
+    },
+    {
+      "name": "BMW 4 Series",
+      "description": "BMW 4",
+      "price": 22000,
+      "discount": 19800,
+      "color": "red",
+      "rating": 5,
+      "image": "https://cdn2.focus.bg/mobile/photosorg/582/1/big1/11767890320699582_oe.webp"
+    },
+    {
+      "name": "BMW 5 Series",
+      "description": "BMW 5",
+      "price": 22500,
+      "discount": null,
+      "color": "red",
+      "rating": 1,
+      "image": "https://mobistatic4.focus.bg/mobile/photosorg/899/1/big1/11770889589464899_Es.webp"
+    },
+    {
+      "name": "BMW 6 Series",
+      "description": "BMW 6",
+      "price": 23000,
+      "discount": null,
+      "color": "black",
+      "rating": 2,
+      "image": "https://cdn2.focus.bg/mobile/photosorg/636/1/big1/11769610891965636_ba.webp"
+    },
+    {
+      "name": "BMW 7 Series",
+      "description": "BMW 7",
+      "price": 23500,
+      "discount": null,
+      "color": "black",
+      "rating": 3,
+      "image": "https://cdn2.focus.bg/mobile/photosorg/165/1/big1/11756221142112165_XR.webp"
+    },
+    {
+      "name": "Mercedes-Benz C-Class",
+      "description": "Mercedes-Benz C",
+      "price": 24000,
+      "discount": 21600,
+      "color": "white",
+      "rating": 4,
+      "image": "https://mobistatic2.focus.bg/mobile/photosorg/309/1/big1/11757970077698309_sX.webp"
+    },
+   {
+      "name": "Mercedes-Benz A-Class",
+      "description": "Mercedes-Benz A",
+      "price": 24500,
+      "discount": null,
+      "color": "black",
+      "rating": 5,
+      "image": "https://mobistatic2.focus.bg/mobile/photosorg/900/1/big1/11678788159074900_kh.webp"
+    },
+     {
+      "name": "Mercedes-Benz A-Class",
+      "description": "Mercedes-Benz A",
+      "price": 25000,
+      "discount": null,
+      "color": "white",
+      "rating": 1,
+      "image": "https://cdn2.focus.bg/mobile/photosorg/417/1/big1/11773073055616417_Xu.webp"
+    },
+    {
+      "name": "Mercedes-Benz C-Class",
+      "description": "Mercedes-Benz C",
+      "price": 25500,
+      "discount": null,
+      "color": "red",
+      "rating": 2,
+      "image": "https://mobistatic2.focus.bg/mobile/photosorg/037/1/big1/11772480922734037_tK.webp"
+    },
+     {
+      "name": "Mercedes-Benz C-Class",
+      "description": "Mercedes-Benz C",
+      "price": 26000,
+      "discount": 23400,
+      "color": "black",
+      "rating": 3,
+      "image": "https://mobistatic1.focus.bg/mobile/photosorg/621/1/big/11763053618373621_vK.webp"
+    },
+    {
+      "name": "Mercedes-Benz C-Class",
+      "description": "Mercedes-Benz C",
+      "price": 26500,
+      "discount": null,
+      "color": "white",
+      "rating": 4,
+      "image": "https://cdn2.focus.bg/mobile/photosorg/055/1/big1/11770584510102055_y8.webp"
+    },
+    {
+      "name": "Mercedes-Benz C-Class",
+      "description": "Mercedes-Benz C",
+      "price": 27000,
+      "discount": null,
+      "color": "white",
+      "rating": 5,
+      "image": "https://mobistatic3.focus.bg/mobile/photosorg/448/1/big1/11773255180178448_23.webp"
+    },
+    {
+      "name": "Mercedes-Benz A-Class",
+      "description": "Mercedes-Benz A",
+      "price": 27500,
+      "discount": null,
+      "color": "white",
+      "rating": 1,
+      "image": "https://mobistatic2.focus.bg/mobile/photosorg/231/1/big1/11765875187437231_1o.webp"
+    },
+    {
+      "name": "Mercedes-Benz A-Class",
+      "description": "Mercedes-Benz A",
+      "price": 28000,
+      "discount": 25200,
+      "color": "white",
+      "rating": 2,
+      "image": "https://mobistatic4.focus.bg/mobile/photosorg/890/1/big1/11769618996472890_5l.webp"
+    },
+    {
+      "name": "Audi A4",
+      "description": "Audi A4",
+      "price": 28500,
+      "discount": null,
+      "color": "white",
+      "rating": 3,
+      "image": "https://mobistatic1.focus.bg/mobile/photosorg/076/1/big1/11755123330967076_O6.webp"
+    },
+    {
+      "name": "Audi A4",
+      "description": "Audi A4",
+      "price": 29000,
+      "discount": null,
+      "color": "white",
+      "rating": 4,
+      "image": "https://mobistatic2.focus.bg/mobile/photosorg/410/1/big1/11772789908264410_gj.webp"
+    },
+    {
+      "name": "Audi A6",
+      "description": "Audi A6",
+      "price": 29500,
+      "discount": null,
+      "color": "white",
+      "rating": 5,
+      "image": "https://mobistatic1.focus.bg/mobile/photosorg/236/1/big1/11773323387887236_iY.webp"
+    },
+    {
+      "name": "Audi A6",
+      "description": "Audi A6",
+      "price": 30000,
+      "discount": 27000,
+      "color": "black",
+      "rating": 1,
+      "image": "https://mobistatic4.focus.bg/mobile/photosorg/150/1/big1/11757562168795150_Bi.webp"
+    },
+    {
+      "name": "Audi A6",
+      "description": "Audi A6",
+      "price": 30500,
+      "discount": null,
+      "color": "black",
+      "rating": 2,
+      "image": "https://mobistatic4.focus.bg/mobile/photosorg/150/1/big1/11757562168795150_Bi.webp"
+    }
+  ],
+  "suvs": [
+    {
+      "name": "Audi Q5",
+      "description": "Audi Q5",
+      "price": 20500,
+      "discount": null,
+      "color": "white",
+      "rating": 2,
+      "image": "https://mobistatic2.focus.bg/mobile/photosorg/330/2/big1/21764761383489330_nE.webp"
+    },
+    {
+      "name": "Audi Q5",
+      "description": "Audi Q5",
+      "price": 21000,
+      "discount": null,
+      "color": "black",
+      "rating": 3,
+      "image": "https://mobistatic3.focus.bg/mobile/photosorg/618/2/big1/21769852358330618_Ok.webp"
+    },
+    {
+      "name": "Audi Q5",
+      "description": "Audi Q5",
+      "price": 21500,
+      "discount": null,
+      "color": "black",
+      "rating": 4,
+      "image": "https://mobistatic3.focus.bg/mobile/photosorg/021/2/big1/21772636195699021_Cd.webp"
+    },
+    {
+      "name": "Audi Q5",
+      "description": "Audi Q5",
+      "price": 22000,
+      "discount": 19800,
+      "color": "white",
+      "rating": 5,
+      "image": "https://cdn2.focus.bg/mobile/photosorg/811/2/big1/21772523825130811_F9.webp"
+    },
+    {
+      "name": "BMW X5",
+      "description": "BMW X5",
+      "price": 22500,
+      "discount": null,
+      "color": "black",
+      "rating": 1,
+      "image": "https://mobistatic2.focus.bg/mobile/photosorg/764/2/big1/21771599450035764_Z8.webp"
+    },
+    {
+      "name": "BMW X5",
+      "description": "BMW X5",
+      "price": 23000,
+      "discount": null,
+      "color": "black",
+      "rating": 2,
+      "image": "https://mobistatic4.focus.bg/mobile/photosorg/608/2/big1/21771515479870608_fF.webp"
+    },
+    {
+      "name": "BMW X5",
+      "description": "BMW X5",
+      "price": 23500,
+      "discount": null,
+      "color": "white",
+      "rating": 3,
+      "image": "https://mobistatic2.focus.bg/mobile/photosorg/909/2/big1/21767615213845909_6w.webp"
+    },
+    {
+      "name": "BMW X5",
+      "description": "BMW X5",
+      "price": 24000,
+      "discount": 21600,
+      "color": "red",
+      "rating": 4,
+      "image": "https://mobistatic3.focus.bg/mobile/photosorg/052/2/big1/21759676301572052_CS.webp"
+    },
+    {
+      "name": "BMW X5",
+      "description": "BMW X5",
+      "price": 24500,
+      "discount": null,
+      "color": "red",
+      "rating": 5,
+      "image": "https://mobistatic4.focus.bg/mobile/photosorg/701/2/big1/21773056618042701_2g.webp"
+    },
+    {
+      "name": "BMW X5",
+      "description": "BMW X5",
+      "price": 25000,
+      "discount": null,
+      "color": "white",
+      "rating": 1,
+      "image": "https://mobistatic4.focus.bg/mobile/photosorg/212/2/big1/21764861009988212_2G.webp"
+    },
+    {
+      "name": "Mercedes-Benz GL",
+      "description": "Mercedes-Benz GL",
+      "price": 25500,
+      "discount": null,
+      "color": "white",
+      "rating": 2,
+      "image": "https://cdn2.focus.bg/mobile/photosorg/722/2/big1/21770379118163722_II.webp"
+    },
+    {
+      "name": "Mercedes-Benz GL",
+      "description": "Mercedes-Benz GL",
+      "price": 26000,
+      "discount": 23400,
+      "color": "black",
+      "rating": 3,
+      "image": "https://mobistatic3.focus.bg/mobile/photosorg/185/2/big1/21769968709862185_dt.webp"
+    },
+    {
+      "name": "Mercedes-Benz GL",
+      "description": "Mercedes-Benz GL",
+      "price": 26500,
+      "discount": null,
+      "color": "white",
+      "rating": 4,
+      "image": "https://mobistatic4.focus.bg/mobile/photosorg/219/2/big1/21757604616577219_zU.webp"
+    },
+    {
+      "name": "Mercedes-Benz GL",
+      "description": "Mercedes-Benz GL",
+      "price": 27000,
+      "discount": null,
+      "color": "black",
+      "rating": 5,
+      "image": "https://cdn2.focus.bg/mobile/photosorg/539/2/big1/21761004945545539_26.webp"
+    },
+    {
+      "name": "Mercedes-Benz GL",
+      "description": "Mercedes-Benz GL",
+      "price": 27500,
+      "discount": null,
+      "color": "black",
+      "rating": 1,
+      "image": "https://mobistatic4.focus.bg/mobile/photosorg/534/2/big1/21752422264245534_dA.webp"
+    },
+    {
+      "name": "Mercedes-Benz GL",
+      "description": "Mercedes-Benz GL",
+      "price": 28000,
+      "discount": 25200,
+      "color": "white",
+      "rating": 2,
+      "image": "https://cdn2.focus.bg/mobile/photosorg/242/2/big1/21772785588976242_ez.webp"
+    },
+    {
+      "name": "Toyota RAV4",
+      "description": "Toyota RAV4",
+      "price": 28500,
+      "discount": null,
+      "color": "black",
+      "rating": 3,
+      "image": "https://mobistatic2.focus.bg/mobile/photosorg/952/2/big1/21772259520697952_4R.webp"
+    },
+    {
+      "name": "Toyota RAV4",
+      "description": "Toyota RAV4",
+      "price": 29000,
+      "discount": null,
+      "color": "white",
+      "rating": 4,
+      "image": "https://mobistatic3.focus.bg/mobile/photosorg/433/2/big1/21771145055742433_7u.webp"
+    },
+    {
+      "name": "Toyota RAV4",
+      "description": "Toyota RAV4",
+      "price": 29500,
+      "discount": null,
+      "color": "white",
+      "rating": 5,
+      "image": "https://mobistatic4.focus.bg/mobile/photosorg/017/2/big1/21765978468016017_Bn.webp"
+    },
+    {
+      "name": "Toyota RAV4",
+      "description": "Toyota RAV4",
+      "price": 30000,
+      "discount": 27000,
+      "color": "black",
+      "rating": 1,
+      "image": "https://mobistatic4.focus.bg/mobile/photosorg/797/2/big1/21766509344509797_YY.webp"
+    },
+    {
+      "name": "Toyota RAV4",
+      "description": "Toyota RAV4",
+      "price": 30500,
+      "discount": null,
+      "color": "black",
+      "rating": 2,
+      "image": "https://mobistatic3.focus.bg/mobile/photosorg/928/1/big1/11653028012750928_H0.webp"
+    }
+  ]
+}

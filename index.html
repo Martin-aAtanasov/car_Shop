@@ -1,0 +1,66 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Car City Store</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="header">
+  <div class="logo">Auto City Store</div>
+  <nav>
+    <button onclick="loadCategory('sedans')">Sedans</button>
+    <button onclick="loadCategory('suvs')">SUVs</button>
+  </nav>
+</header>
+
+<section class="category-info">
+  <h1 id="categoryTitle"></h1>
+  <p id="categoryDescription"></p>
+</section>
+
+<div class="controls">
+  <div class="counter" id="productCounter"></div>
+
+  <select id="sortSelect" onchange="sortCars()">
+    <option value="">Sort Cars</option>
+    <option value="az">Model (A-Z)</option>
+    <option value="za">Model (Z-A)</option>
+    <option value="low">Price (Low → High)</option>
+    <option value="high">Price (High → Low)</option>
+  </select>
+</div>
+
+<div class="main">
+
+  <aside class="filters">
+    <h3>Filter by Color</h3>
+    <label><input type="checkbox" value="black" onchange="applyFilters()"> Black</label>
+    <label><input type="checkbox" value="white" onchange="applyFilters()"> White</label>
+    <label><input type="checkbox" value="red" onchange="applyFilters()"> Red</label>
+
+    <h3>Max Price</h3>
+    <input type="range" min="10000" max="100000" value="100000" id="priceRange" oninput="applyFilters()">
+    <span id="priceValue">100000</span>
+  </aside>
+
+  <section class="products" id="carGrid"></section>
+
+</div>
+
+<div class="load-more">
+  <button onclick="loadMore()">Load More Cars</button>
+</div>
+
+<footer>
+<p>Terms & Conditions</p>
+<p>Privacy Policy</p>
+<p>Contact Us</p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
