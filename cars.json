@@ -1,0 +1,1086 @@
+{
+  "sedans": [
+    {
+      "name": "BMW 3 Series",
+      "description": "BMW 3",
+      "price": 20500,
+      "discount": null,
+      "color": "black",
+      "rating": 2,
+      "image": "https://mobistatic1.focus.bg/mobile/photosorg/967/1/big1/11740240947363967_4B.webp"
+    },
+    {
+      "name": "BMW 2 Series",
+      "description": "BMW 2",
+      "price": 21000,
+      "discount": null,
+      "color": "white",
+      "rating": 3,
+      "image": "https://mobistatic3.focus.bg/mobile/photosorg/953/1/big1/11734707526405953_go.webp"
+    },
+    {
+      "name": "BMW 1 Series",
+      "description": "BMW 1",
+      "price": 21500,
+      "discount": null,
+      "color": "red",
+      "rating": 4,
+      "image": "https://cdn2.focus.bg/mobile/photosorg/582/1/big1/11767890320699582_oe.webp"
+    },
+    {
+      "name": "BMW 4 Series",
+      "description": "BMW 4",
+      "price": 22000,
+      "discount": 19800,
+      "color": "white",
+      "rating": 5,
+      "image": "https://mobistatic2.focus.bg/mobile/photosorg/386/1/big1/11770040283120386_UD.webp"
+    },
+    {
+      "name": "BMW 5 Series",
+      "description": "BMW 5",
+      "price": 22500,
+      "discount": null,
+      "color": "red",
+      "rating": 1,
+      "image": "https://mobistatic4.focus.bg/mobile/photosorg/899/1/big1/11770889589464899_Es.webp"
+    },
+    {
+      "name": "BMW 6 Series",
+      "description": "BMW 6",
+      "price": 23000,
+      "discount": null,
+      "color": "black",
+      "rating": 2,
+      "image": "https://cdn2.focus.bg/mobile/photosorg/636/1/big1/11769610891965636_ba.webp"
+    },
+    {
+      "name": "BMW 7 Series",
+      "description": "BMW 7",
+      "price": 23500,
+      "discount": null,
+      "color": "black",
+      "rating": 3,
+      "image": "https://cdn2.focus.bg/mobile/photosorg/165/1/big1/11756221142112165_XR.webp"
+    },
+    {
+      "name": "Mercedes-Benz C-Class",
+      "description": "Mercedes-Benz C",
+      "price": 24000,
+      "discount": 21600,
+      "color": "white",
+      "rating": 4,
+      "image": "https://mobistatic2.focus.bg/mobile/photosorg/309/1/big1/11757970077698309_sX.webp"
+    },
+    {
+      "name": "Mercedes-Benz A-Class",
+      "description": "Mercedes-Benz A",
+      "price": 24500,
+      "discount": null,
+      "color": "black",
+      "rating": 5,
+      "image": "https://mobistatic2.focus.bg/mobile/photosorg/900/1/big1/11678788159074900_kh.webp"
+    },
+    {
+      "name": "Mercedes-Benz A-Class",
+      "description": "Mercedes-Benz A",
+      "price": 25000,
+      "discount": null,
+      "color": "white",
+      "rating": 1,
+      "image": "https://cdn2.focus.bg/mobile/photosorg/417/1/big1/11773073055616417_Xu.webp"
+    },
+    {
+      "name": "Mercedes-Benz C-Class",
+      "description": "Mercedes-Benz C",
+      "price": 25500,
+      "discount": null,
+      "color": "red",
+      "rating": 2,
+      "image": "https://mobistatic2.focus.bg/mobile/photosorg/037/1/big1/11772480922734037_tK.webp"
+    },
+    {
+      "name": "Mercedes-Benz C-Class",
+      "description": "Mercedes-Benz C",
+      "price": 26000,
+      "discount": 23400,
+      "color": "black",
+      "rating": 3,
+      "image": "https://mobistatic1.focus.bg/mobile/photosorg/621/1/big/11763053618373621_vK.webp"
+    },
+    {
+      "name": "Sedan Model 13",
+      "description": "Reliable modern car with great performance.",
+      "price": 26500,
+      "discount": null,
+      "color": "white",
+      "rating": 4,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "Sedan Model 14",
+      "description": "Reliable modern car with great performance.",
+      "price": 27000,
+      "discount": null,
+      "color": "red",
+      "rating": 5,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "Sedan Model 15",
+      "description": "Reliable modern car with great performance.",
+      "price": 27500,
+      "discount": null,
+      "color": "black",
+      "rating": 1,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "Sedan Model 16",
+      "description": "Reliable modern car with great performance.",
+      "price": 28000,
+      "discount": 25200,
+      "color": "white",
+      "rating": 2,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "Sedan Model 17",
+      "description": "Reliable modern car with great performance.",
+      "price": 28500,
+      "discount": null,
+      "color": "red",
+      "rating": 3,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "Sedan Model 18",
+      "description": "Reliable modern car with great performance.",
+      "price": 29000,
+      "discount": null,
+      "color": "black",
+      "rating": 4,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "Sedan Model 19",
+      "description": "Reliable modern car with great performance.",
+      "price": 29500,
+      "discount": null,
+      "color": "white",
+      "rating": 5,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "Sedan Model 20",
+      "description": "Reliable modern car with great performance.",
+      "price": 30000,
+      "discount": 27000,
+      "color": "red",
+      "rating": 1,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "Sedan Model 21",
+      "description": "Reliable modern car with great performance.",
+      "price": 30500,
+      "discount": null,
+      "color": "black",
+      "rating": 2,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "Sedan Model 22",
+      "description": "Reliable modern car with great performance.",
+      "price": 31000,
+      "discount": null,
+      "color": "white",
+      "rating": 3,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "Sedan Model 23",
+      "description": "Reliable modern car with great performance.",
+      "price": 31500,
+      "discount": null,
+      "color": "red",
+      "rating": 4,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "Sedan Model 24",
+      "description": "Reliable modern car with great performance.",
+      "price": 32000,
+      "discount": 28800,
+      "color": "black",
+      "rating": 5,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "Sedan Model 25",
+      "description": "Reliable modern car with great performance.",
+      "price": 32500,
+      "discount": null,
+      "color": "white",
+      "rating": 1,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "Sedan Model 26",
+      "description": "Reliable modern car with great performance.",
+      "price": 33000,
+      "discount": null,
+      "color": "red",
+      "rating": 2,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "Sedan Model 27",
+      "description": "Reliable modern car with great performance.",
+      "price": 33500,
+      "discount": null,
+      "color": "black",
+      "rating": 3,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "Sedan Model 28",
+      "description": "Reliable modern car with great performance.",
+      "price": 34000,
+      "discount": 30600,
+      "color": "white",
+      "rating": 4,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "Sedan Model 29",
+      "description": "Reliable modern car with great performance.",
+      "price": 34500,
+      "discount": null,
+      "color": "red",
+      "rating": 5,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "Sedan Model 30",
+      "description": "Reliable modern car with great performance.",
+      "price": 35000,
+      "discount": null,
+      "color": "black",
+      "rating": 1,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "Sedan Model 31",
+      "description": "Reliable modern car with great performance.",
+      "price": 35500,
+      "discount": null,
+      "color": "white",
+      "rating": 2,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "Sedan Model 32",
+      "description": "Reliable modern car with great performance.",
+      "price": 36000,
+      "discount": 32400,
+      "color": "red",
+      "rating": 3,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "Sedan Model 33",
+      "description": "Reliable modern car with great performance.",
+      "price": 36500,
+      "discount": null,
+      "color": "black",
+      "rating": 4,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "Sedan Model 34",
+      "description": "Reliable modern car with great performance.",
+      "price": 37000,
+      "discount": null,
+      "color": "white",
+      "rating": 5,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "Sedan Model 35",
+      "description": "Reliable modern car with great performance.",
+      "price": 37500,
+      "discount": null,
+      "color": "red",
+      "rating": 1,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "Sedan Model 36",
+      "description": "Reliable modern car with great performance.",
+      "price": 38000,
+      "discount": 34200,
+      "color": "black",
+      "rating": 2,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "Sedan Model 37",
+      "description": "Reliable modern car with great performance.",
+      "price": 38500,
+      "discount": null,
+      "color": "white",
+      "rating": 3,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "Sedan Model 38",
+      "description": "Reliable modern car with great performance.",
+      "price": 39000,
+      "discount": null,
+      "color": "red",
+      "rating": 4,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "Sedan Model 39",
+      "description": "Reliable modern car with great performance.",
+      "price": 39500,
+      "discount": null,
+      "color": "black",
+      "rating": 5,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "Sedan Model 40",
+      "description": "Reliable modern car with great performance.",
+      "price": 40000,
+      "discount": 36000,
+      "color": "white",
+      "rating": 1,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "Sedan Model 41",
+      "description": "Reliable modern car with great performance.",
+      "price": 40500,
+      "discount": null,
+      "color": "red",
+      "rating": 2,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "Sedan Model 42",
+      "description": "Reliable modern car with great performance.",
+      "price": 41000,
+      "discount": null,
+      "color": "black",
+      "rating": 3,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "Sedan Model 43",
+      "description": "Reliable modern car with great performance.",
+      "price": 41500,
+      "discount": null,
+      "color": "white",
+      "rating": 4,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "Sedan Model 44",
+      "description": "Reliable modern car with great performance.",
+      "price": 42000,
+      "discount": 37800,
+      "color": "red",
+      "rating": 5,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "Sedan Model 45",
+      "description": "Reliable modern car with great performance.",
+      "price": 42500,
+      "discount": null,
+      "color": "black",
+      "rating": 1,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "Sedan Model 46",
+      "description": "Reliable modern car with great performance.",
+      "price": 43000,
+      "discount": null,
+      "color": "white",
+      "rating": 2,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "Sedan Model 47",
+      "description": "Reliable modern car with great performance.",
+      "price": 43500,
+      "discount": null,
+      "color": "red",
+      "rating": 3,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "Sedan Model 48",
+      "description": "Reliable modern car with great performance.",
+      "price": 44000,
+      "discount": 39600,
+      "color": "black",
+      "rating": 4,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "Sedan Model 49",
+      "description": "Reliable modern car with great performance.",
+      "price": 44500,
+      "discount": null,
+      "color": "white",
+      "rating": 5,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "Sedan Model 50",
+      "description": "Reliable modern car with great performance.",
+      "price": 45000,
+      "discount": null,
+      "color": "red",
+      "rating": 1,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "Sedan Model 51",
+      "description": "Reliable modern car with great performance.",
+      "price": 45500,
+      "discount": null,
+      "color": "black",
+      "rating": 2,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "Sedan Model 52",
+      "description": "Reliable modern car with great performance.",
+      "price": 46000,
+      "discount": 41400,
+      "color": "white",
+      "rating": 3,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "Sedan Model 53",
+      "description": "Reliable modern car with great performance.",
+      "price": 46500,
+      "discount": null,
+      "color": "red",
+      "rating": 4,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "Sedan Model 54",
+      "description": "Reliable modern car with great performance.",
+      "price": 47000,
+      "discount": null,
+      "color": "black",
+      "rating": 5,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "Sedan Model 55",
+      "description": "Reliable modern car with great performance.",
+      "price": 47500,
+      "discount": null,
+      "color": "white",
+      "rating": 1,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "Sedan Model 56",
+      "description": "Reliable modern car with great performance.",
+      "price": 48000,
+      "discount": 43200,
+      "color": "red",
+      "rating": 2,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "Sedan Model 57",
+      "description": "Reliable modern car with great performance.",
+      "price": 48500,
+      "discount": null,
+      "color": "black",
+      "rating": 3,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "Sedan Model 58",
+      "description": "Reliable modern car with great performance.",
+      "price": 49000,
+      "discount": null,
+      "color": "white",
+      "rating": 4,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "Sedan Model 59",
+      "description": "Reliable modern car with great performance.",
+      "price": 49500,
+      "discount": null,
+      "color": "red",
+      "rating": 5,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "Sedan Model 60",
+      "description": "Reliable modern car with great performance.",
+      "price": 50000,
+      "discount": 45000,
+      "color": "black",
+      "rating": 1,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    }
+  ],
+  "suvs": [
+    {
+      "name": "SUV Model 1",
+      "description": "Reliable modern car with great performance.",
+      "price": 20500,
+      "discount": null,
+      "color": "white",
+      "rating": 2,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "SUV Model 2",
+      "description": "Reliable modern car with great performance.",
+      "price": 21000,
+      "discount": null,
+      "color": "red",
+      "rating": 3,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "SUV Model 3",
+      "description": "Reliable modern car with great performance.",
+      "price": 21500,
+      "discount": null,
+      "color": "black",
+      "rating": 4,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "SUV Model 4",
+      "description": "Reliable modern car with great performance.",
+      "price": 22000,
+      "discount": 19800,
+      "color": "white",
+      "rating": 5,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "SUV Model 5",
+      "description": "Reliable modern car with great performance.",
+      "price": 22500,
+      "discount": null,
+      "color": "red",
+      "rating": 1,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "SUV Model 6",
+      "description": "Reliable modern car with great performance.",
+      "price": 23000,
+      "discount": null,
+      "color": "black",
+      "rating": 2,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "SUV Model 7",
+      "description": "Reliable modern car with great performance.",
+      "price": 23500,
+      "discount": null,
+      "color": "white",
+      "rating": 3,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "SUV Model 8",
+      "description": "Reliable modern car with great performance.",
+      "price": 24000,
+      "discount": 21600,
+      "color": "red",
+      "rating": 4,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "SUV Model 9",
+      "description": "Reliable modern car with great performance.",
+      "price": 24500,
+      "discount": null,
+      "color": "black",
+      "rating": 5,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "SUV Model 10",
+      "description": "Reliable modern car with great performance.",
+      "price": 25000,
+      "discount": null,
+      "color": "white",
+      "rating": 1,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "SUV Model 11",
+      "description": "Reliable modern car with great performance.",
+      "price": 25500,
+      "discount": null,
+      "color": "red",
+      "rating": 2,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "SUV Model 12",
+      "description": "Reliable modern car with great performance.",
+      "price": 26000,
+      "discount": 23400,
+      "color": "black",
+      "rating": 3,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "SUV Model 13",
+      "description": "Reliable modern car with great performance.",
+      "price": 26500,
+      "discount": null,
+      "color": "white",
+      "rating": 4,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "SUV Model 14",
+      "description": "Reliable modern car with great performance.",
+      "price": 27000,
+      "discount": null,
+      "color": "red",
+      "rating": 5,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "SUV Model 15",
+      "description": "Reliable modern car with great performance.",
+      "price": 27500,
+      "discount": null,
+      "color": "black",
+      "rating": 1,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "SUV Model 16",
+      "description": "Reliable modern car with great performance.",
+      "price": 28000,
+      "discount": 25200,
+      "color": "white",
+      "rating": 2,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "SUV Model 17",
+      "description": "Reliable modern car with great performance.",
+      "price": 28500,
+      "discount": null,
+      "color": "red",
+      "rating": 3,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "SUV Model 18",
+      "description": "Reliable modern car with great performance.",
+      "price": 29000,
+      "discount": null,
+      "color": "black",
+      "rating": 4,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "SUV Model 19",
+      "description": "Reliable modern car with great performance.",
+      "price": 29500,
+      "discount": null,
+      "color": "white",
+      "rating": 5,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "SUV Model 20",
+      "description": "Reliable modern car with great performance.",
+      "price": 30000,
+      "discount": 27000,
+      "color": "red",
+      "rating": 1,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "SUV Model 21",
+      "description": "Reliable modern car with great performance.",
+      "price": 30500,
+      "discount": null,
+      "color": "black",
+      "rating": 2,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "SUV Model 22",
+      "description": "Reliable modern car with great performance.",
+      "price": 31000,
+      "discount": null,
+      "color": "white",
+      "rating": 3,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "SUV Model 23",
+      "description": "Reliable modern car with great performance.",
+      "price": 31500,
+      "discount": null,
+      "color": "red",
+      "rating": 4,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "SUV Model 24",
+      "description": "Reliable modern car with great performance.",
+      "price": 32000,
+      "discount": 28800,
+      "color": "black",
+      "rating": 5,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "SUV Model 25",
+      "description": "Reliable modern car with great performance.",
+      "price": 32500,
+      "discount": null,
+      "color": "white",
+      "rating": 1,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "SUV Model 26",
+      "description": "Reliable modern car with great performance.",
+      "price": 33000,
+      "discount": null,
+      "color": "red",
+      "rating": 2,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "SUV Model 27",
+      "description": "Reliable modern car with great performance.",
+      "price": 33500,
+      "discount": null,
+      "color": "black",
+      "rating": 3,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "SUV Model 28",
+      "description": "Reliable modern car with great performance.",
+      "price": 34000,
+      "discount": 30600,
+      "color": "white",
+      "rating": 4,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "SUV Model 29",
+      "description": "Reliable modern car with great performance.",
+      "price": 34500,
+      "discount": null,
+      "color": "red",
+      "rating": 5,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "SUV Model 30",
+      "description": "Reliable modern car with great performance.",
+      "price": 35000,
+      "discount": null,
+      "color": "black",
+      "rating": 1,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "SUV Model 31",
+      "description": "Reliable modern car with great performance.",
+      "price": 35500,
+      "discount": null,
+      "color": "white",
+      "rating": 2,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "SUV Model 32",
+      "description": "Reliable modern car with great performance.",
+      "price": 36000,
+      "discount": 32400,
+      "color": "red",
+      "rating": 3,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "SUV Model 33",
+      "description": "Reliable modern car with great performance.",
+      "price": 36500,
+      "discount": null,
+      "color": "black",
+      "rating": 4,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "SUV Model 34",
+      "description": "Reliable modern car with great performance.",
+      "price": 37000,
+      "discount": null,
+      "color": "white",
+      "rating": 5,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "SUV Model 35",
+      "description": "Reliable modern car with great performance.",
+      "price": 37500,
+      "discount": null,
+      "color": "red",
+      "rating": 1,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "SUV Model 36",
+      "description": "Reliable modern car with great performance.",
+      "price": 38000,
+      "discount": 34200,
+      "color": "black",
+      "rating": 2,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "SUV Model 37",
+      "description": "Reliable modern car with great performance.",
+      "price": 38500,
+      "discount": null,
+      "color": "white",
+      "rating": 3,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "SUV Model 38",
+      "description": "Reliable modern car with great performance.",
+      "price": 39000,
+      "discount": null,
+      "color": "red",
+      "rating": 4,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "SUV Model 39",
+      "description": "Reliable modern car with great performance.",
+      "price": 39500,
+      "discount": null,
+      "color": "black",
+      "rating": 5,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "SUV Model 40",
+      "description": "Reliable modern car with great performance.",
+      "price": 40000,
+      "discount": 36000,
+      "color": "white",
+      "rating": 1,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "SUV Model 41",
+      "description": "Reliable modern car with great performance.",
+      "price": 40500,
+      "discount": null,
+      "color": "red",
+      "rating": 2,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "SUV Model 42",
+      "description": "Reliable modern car with great performance.",
+      "price": 41000,
+      "discount": null,
+      "color": "black",
+      "rating": 3,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "SUV Model 43",
+      "description": "Reliable modern car with great performance.",
+      "price": 41500,
+      "discount": null,
+      "color": "white",
+      "rating": 4,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "SUV Model 44",
+      "description": "Reliable modern car with great performance.",
+      "price": 42000,
+      "discount": 37800,
+      "color": "red",
+      "rating": 5,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "SUV Model 45",
+      "description": "Reliable modern car with great performance.",
+      "price": 42500,
+      "discount": null,
+      "color": "black",
+      "rating": 1,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "SUV Model 46",
+      "description": "Reliable modern car with great performance.",
+      "price": 43000,
+      "discount": null,
+      "color": "white",
+      "rating": 2,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "SUV Model 47",
+      "description": "Reliable modern car with great performance.",
+      "price": 43500,
+      "discount": null,
+      "color": "red",
+      "rating": 3,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "SUV Model 48",
+      "description": "Reliable modern car with great performance.",
+      "price": 44000,
+      "discount": 39600,
+      "color": "black",
+      "rating": 4,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "SUV Model 49",
+      "description": "Reliable modern car with great performance.",
+      "price": 44500,
+      "discount": null,
+      "color": "white",
+      "rating": 5,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "SUV Model 50",
+      "description": "Reliable modern car with great performance.",
+      "price": 45000,
+      "discount": null,
+      "color": "red",
+      "rating": 1,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "SUV Model 51",
+      "description": "Reliable modern car with great performance.",
+      "price": 45500,
+      "discount": null,
+      "color": "black",
+      "rating": 2,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "SUV Model 52",
+      "description": "Reliable modern car with great performance.",
+      "price": 46000,
+      "discount": 41400,
+      "color": "white",
+      "rating": 3,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "SUV Model 53",
+      "description": "Reliable modern car with great performance.",
+      "price": 46500,
+      "discount": null,
+      "color": "red",
+      "rating": 4,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "SUV Model 54",
+      "description": "Reliable modern car with great performance.",
+      "price": 47000,
+      "discount": null,
+      "color": "black",
+      "rating": 5,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "SUV Model 55",
+      "description": "Reliable modern car with great performance.",
+      "price": 47500,
+      "discount": null,
+      "color": "white",
+      "rating": 1,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "SUV Model 56",
+      "description": "Reliable modern car with great performance.",
+      "price": 48000,
+      "discount": 43200,
+      "color": "red",
+      "rating": 2,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "SUV Model 57",
+      "description": "Reliable modern car with great performance.",
+      "price": 48500,
+      "discount": null,
+      "color": "black",
+      "rating": 3,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "SUV Model 58",
+      "description": "Reliable modern car with great performance.",
+      "price": 49000,
+      "discount": null,
+      "color": "white",
+      "rating": 4,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "SUV Model 59",
+      "description": "Reliable modern car with great performance.",
+      "price": 49500,
+      "discount": null,
+      "color": "red",
+      "rating": 5,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    },
+    {
+      "name": "SUV Model 60",
+      "description": "Reliable modern car with great performance.",
+      "price": 50000,
+      "discount": 45000,
+      "color": "black",
+      "rating": 1,
+      "image": "https://via.placeholder.com/300x200?text=Car"
+    }
+  ]
+}
